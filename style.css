@@ -36,6 +36,37 @@
       width: 100%;
       max-height: 400px;
     }
+
     p {
       line-height: 1.5;
     }
+
+    .description{
+      margin-top: 20px;
+      padding: 7px;
+      background-color: rgb(153, 187, 216);
+      display: flex;
+    }
+
+    .details{
+      width: 50%;
+      padding: 5px;
+      text-align: justify;
+      margin-right: 50px;    
+    }
+
+    .desp{
+      border-right: 2px solid rgb(37, 3, 3);
+      padding-right: 40px;
+    }
+    
+    .footer{
+      padding: 50px;
+      text-align: center;
+      background-color: #001C30;
+      color: #fff;
+
+}
+
+
+
